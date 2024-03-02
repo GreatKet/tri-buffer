@@ -1,0 +1,7 @@
+[package]
+name = "tri-buffer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+portable-atomic = "1.6.0"
